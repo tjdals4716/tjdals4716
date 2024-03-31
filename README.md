@@ -10,6 +10,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<h1 style="display: inline-block; vertical-align: middle;">💼 Projects</h1>
+ - 3학년 2학기 ~ 4학년 1학기 캡스톤 프로젝트 : https://github.com/l0o0lv/Capstone_project.git
+
 <h1 style="display: inline-block; vertical-align: middle;">🚀 Skills</h1>
 
 | <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> |
