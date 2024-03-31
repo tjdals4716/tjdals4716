@@ -24,9 +24,11 @@
 
 
 
+
+
 <h1 style="display: inline-block; vertical-align: middle;">💻 Most Language</h1>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&layout=compact)
 
 <h1 style="display: inline-block; vertical-align: middle;">🤜🤛 Github Stats</h1>
