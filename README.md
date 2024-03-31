@@ -4,7 +4,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
 
-### ✨안녕하세요 계명대학교 컴퓨터공학과에 재학중인 송성민입니다✨
+### ✨안녕하세요 컴퓨터공학과에서 프로그래밍 공부중인 송성민입니다✨
 
 <h2 style="display: inline-block; vertical-align: middle;">📌방문자 수</h2>
 
