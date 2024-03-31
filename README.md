@@ -14,9 +14,15 @@
 
 | <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> |
 
-<h1 style="display: inline-block; vertical-align: middle;">📝 Blog</h1>
+<h1 style="display: inline-block; vertical-align: middle;">📝 Social</h1>
 
-| <img src="https://img.shields.io/badge/velog-298D46?style=for-the-badge&logo=velog&logoColor=white" /> | (https://velog.io/@ssm2053/posts) |
+<img src="https://img.shields.io/badge/velog-298D46?style=for-the-badge&logo=velog&logoColor=white" /> : https://velog.io/@ssm2053/posts
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> : https://github.com/tjdals4716
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> : https://www.instagram.com/thdtjdals__
+
+
 
 <h1 style="display: inline-block; vertical-align: middle;">💻 Most Language</h1>
     
