@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20Is%20SongSeongMin's%20GitHub%20Profile!%20&descAlignY=51&descAlign=62"/>
 </p>
 
-<h1 style="display: inline-block; vertical-align: middle;">📌 Intersting</h1>
+<h1 style="display: inline-block; vertical-align: middle;">📌 Interesting</h1>
 
 ### ✨안녕하세요 컴퓨터공학과에서 프로그래밍 공부중인 송성민입니다✨
 
