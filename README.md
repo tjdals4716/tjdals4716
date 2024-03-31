@@ -20,11 +20,13 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">💻 Most Language</h2>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&layout=compact)
 
 <h2 style="display: inline-block; vertical-align: middle;">🤜🤛 Github Stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdals4716)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdals4716&show_icons=true&theme=radical)
 
 <h2 style="display: inline-block; vertical-align: middle;">🧐 백준 티어</h2>
 
