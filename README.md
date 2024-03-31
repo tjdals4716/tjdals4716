@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=👋Hello👋&fontSize=90)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20My%20GitHub%20Profile!%20&descAlignY=51&descAlign=62"/>
+</p>
 
 ### 안녕하세요 컴퓨터공학과 송성민입니다👋
 
