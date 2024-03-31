@@ -6,7 +6,7 @@
 
 ### ✨안녕하세요 컴퓨터공학과에서 프로그래밍 공부중인 송성민입니다✨
 
-<h2 style="display: inline-block; vertical-align: middle;">📌 방문자 수</h2>
+<h2 style="display: inline-block; vertical-align: middle;">👨 방문자 수</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -19,17 +19,17 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📝 Blog</h2>
 
-| <img src="https://img.shields.io/badge/velog-FF5722?style=for-the-badge&logo=velog&logoColor=white" />             | `[https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white](https://velog.io/@ssm2053/posts)`             |
+| <img src="https://img.shields.io/badge/velog-298D46?style=for-the-badge&logo=velog&logoColor=white" /> | `[https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white](https://velog.io/@ssm2053/posts)` |
 
-<h2 style="display: inline-block; vertical-align: middle;">📌 Most Language</h2>
-
+<h2 style="display: inline-block; vertical-align: middle;">💻 Most Language</h2>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 style="display: inline-block; vertical-align: middle;">📌 Github Stats</h2>
+<h2 style="display: inline-block; vertical-align: middle;">🤜🤛 Github Stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdals4716)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 style="display: inline-block; vertical-align: middle;">📌 백준 티어</h2>
+<h2 style="display: inline-block; vertical-align: middle;">🧐 백준 티어</h2>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals4716)](https://solved.ac/wke1wke1)
 
