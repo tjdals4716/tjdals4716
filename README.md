@@ -13,6 +13,8 @@
 <h1 style="display: inline-block; vertical-align: middle;">💼 Projects and Activities</h1>
 
  - 3학년 2학기 ~ 4학년 1학기 캡스톤 프로젝트 : https://github.com/l0o0lv/Capstone_project.git
+
+ - 캡스톤 프로젝트 팀 백엔드 : https://github.com/l0o0lv/Capstone_Backend.git
  
  - 계명대학교 멋쟁이사자처럼 12기 백엔드 2팀 스터디 : https://github.com/kormk/Lion.git
 
