@@ -19,7 +19,7 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">📝 Blog</h2>
 
-| <img src="https://img.shields.io/badge/velog-298D46?style=for-the-badge&logo=velog&logoColor=white" /> | `[https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white](https://velog.io/@ssm2053/posts)` |
+| <img src="https://img.shields.io/badge/velog-298D46?style=for-the-badge&logo=velog&logoColor=white" /> | (https://velog.io/@ssm2053/posts) |
 
 <h2 style="display: inline-block; vertical-align: middle;">💻 Most Language</h2>
     
