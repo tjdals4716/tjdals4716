@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 송성민입니다👋
 
 <!--
 **tjdals4716/tjdals4716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
