@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20Is%20SongSeongMin's%20GitHub%20Profile!%20&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20Is%20SeongMin's%20GitHub%20Profile!%20&descAlignY=51&descAlign=62"/>
 </p>
 
 <h1 style="display: inline-block; vertical-align: middle;">📌 Interesting</h1>
