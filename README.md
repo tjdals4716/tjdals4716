@@ -29,12 +29,11 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">💻 Most Language</h1>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=onedark)
 
 <h1 style="display: inline-block; vertical-align: middle;">🤜🤛 Github Stats</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdals4716&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdals4716&show_icons=true&theme=onedark)
 
 <!--
 **tjdals4716/tjdals4716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
