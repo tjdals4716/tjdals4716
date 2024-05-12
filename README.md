@@ -12,13 +12,13 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">💼 Projects and Activities</h1>
 
- - 캡스톤 팀 프로젝트ㅣ모두를 위한 투표 앱 Do표 : https://github.com/l0o0lv/Capstone_project.git
+ - 캡스톤 팀 프로젝트ㅣ모두를 위한 투표 앱 Do표 (2023.09.01 ~ ing) : https://github.com/l0o0lv/Capstone_project.git
    
  - 캡스톤 팀 프로젝트 백엔드 : https://github.com/l0o0lv/Capstone_Backend.git
    
  - 계명대학교 멋쟁이사자처럼 12기 백엔드 2팀 : https://github.com/kormk/Lion.git
 
- - 소프트웨어공학 팀 프로젝트ㅣ온라인 올림픽 굿즈 스토어 OlymPick : https://github.com/tjdals4716/OlymPick.git
+ - 소프트웨어공학 팀 프로젝트ㅣ온라인 올림픽 굿즈 스토어 OlymPick (2023.03.01 ~ ing): https://github.com/tjdals4716/OlymPick.git
 
 <h1 style="display: inline-block; vertical-align: middle;">📝 Social</h1>
 
