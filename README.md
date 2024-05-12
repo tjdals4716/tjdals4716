@@ -29,9 +29,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=tjdals4716\&rank_icon=github&theme=tokyonight)
 
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
-</p>
 
 <!--
 **tjdals4716/tjdals4716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
