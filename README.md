@@ -12,11 +12,6 @@
  
  - 계명대학교 멋쟁이사자처럼 12기 백엔드 2팀 : https://github.com/kormk/Lion.git
 
-<h1 style="display: inline-block; vertical-align: middle;">🚀 Skills</h1>
-
-| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
-| <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> |
-
 <h1 style="display: inline-block; vertical-align: middle;">📝 Social</h1>
 
 <img src="https://img.shields.io/badge/velog-298D46?style=for-the-badge&logo=velog&logoColor=white" /> : https://velog.io/@ssm2053/posts
@@ -25,10 +20,15 @@
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> : https://www.instagram.com/thdtjdals__/
 
+<h1 style="display: inline-block; vertical-align: middle;">🚀 Skills</h1>
+
+<img src="https://skillicons.dev/icons?i=c,cs,html,java,spring,py,mysql,postman,git,notion,apple" />
+
 <h1 style="display: inline-block; vertical-align: middle;">💻 Most Language 🤜🤛 Github Stats</h1>
-    
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=tjdals4716\&rank_icon=github&theme=tokyonight)
+
 
 <!--
 **tjdals4716/tjdals4716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
