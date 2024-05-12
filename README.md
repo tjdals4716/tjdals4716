@@ -8,7 +8,7 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">🚀 Skills</h1>
 
-<img src="https://skillicons.dev/icons?i=c,cs,html,java,spring,py,mysql,postman,git,notion,apple" />
+<img src="https://skillicons.dev/icons?i=c,cs,html,vscode,visualstudio,py,java,spring,mysql,postman,git,notion,apple,">
 
 <h1 style="display: inline-block; vertical-align: middle;">💼 Projects and Activities</h1>
 
