@@ -9,8 +9,6 @@
 <h1 style="display: inline-block; vertical-align: middle;">💼 Projects and Activities</h1>
 
  - 3학년 2학기 ~ 4학년 1학기 캡스톤 프로젝트 : https://github.com/l0o0lv/Capstone_project.git
-
- - 캡스톤 프로젝트 팀 백엔드 : https://github.com/l0o0lv/Capstone_Backend.git
  
  - 계명대학교 멋쟁이사자처럼 12기 백엔드 2팀 : https://github.com/kormk/Lion.git
 
@@ -27,13 +25,10 @@
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> : https://www.instagram.com/thdtjdals__/
 
-<h1 style="display: inline-block; vertical-align: middle;">💻 Most Language</h1>
+<h1 style="display: inline-block; vertical-align: middle;">💻 Most Language 🤜🤛 Github Stats</h1>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=tokyonight)
-
-<h1 style="display: inline-block; vertical-align: middle;">🤜🤛 Github Stats</h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdals4716&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github&theme=tokyonight)
 
 <!--
 **tjdals4716/tjdals4716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
