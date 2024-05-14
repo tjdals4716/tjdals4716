@@ -4,8 +4,7 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">📌 Interesting</h1>
 
-### 컴퓨터공학과에서 프로그래밍 공부중인 송성민입니다 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+### 컴퓨터공학과에서 프로그래밍 공부중인 송성민입니다 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 
 <h1 style="display: inline-block; vertical-align: middle;">🚀 Skills</h1>
 
