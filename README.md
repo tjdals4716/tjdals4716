@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=This%20Is%20SeongMin's%20GitHub%20Profile!%20&descAlignY=51&descAlign=62"/>
 </p>
 
-<h1 style="display: inline-block; vertical-align: middle;">📌 Interesting</h1>
+<h1 style="display: inline-block; vertical-align: middle;">📌 introduction</h1>
 
 ### 안녕하세요 컴퓨터공학과에서 프로그래밍 공부중인 송성민입니다 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 
