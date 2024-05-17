@@ -28,7 +28,7 @@
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> : https://www.instagram.com/thdtjdals__/
 
-<h1 style="display: inline-block; vertical-align: middle;">💻 Most Language, GitHub Stats</h1>
+<h1 style="display: inline-block; vertical-align: middle;">💻 Most Language and GitHub Stats</h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=tokyonight"> ![Top Langs](https://github-readme-stats.vercel.app/api?username=tjdals4716\&rank_icon=github&theme=tokyonight)
 
