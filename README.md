@@ -22,6 +22,10 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">📝 Social</h1>
 
+<img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white" /> : song47166@naver.com
+
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" /> : ssm2053@gmail.com    
+
 <img src="https://img.shields.io/badge/velog-298D46?style=flat&logo=velog&logoColor=white" /> : https://velog.io/@ssm2053/posts
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /> : https://github.com/tjdals4716
