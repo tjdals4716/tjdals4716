@@ -22,11 +22,11 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">📝 Social</h1>
 
-<img src="https://img.shields.io/badge/velog-298D46?style=plastic&logo=velog&logoColor=white" /> : https://velog.io/@ssm2053/posts
+<img src="https://img.shields.io/badge/velog-298D46?style=flat&logo=velog&logoColor=white" /> : https://velog.io/@ssm2053/posts
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" /> : https://github.com/tjdals4716
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /> : https://github.com/tjdals4716
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" /> : https://www.instagram.com/thdtjdals__/
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /> : https://www.instagram.com/thdtjdals__/
 
 <h1 style="display: inline-block; vertical-align: middle;">💻 Most Language and GitHub Stats</h1>
 
