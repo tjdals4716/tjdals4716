@@ -12,7 +12,7 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">💼 Projects and Activities</h1>
 
- - 캡스톤 팀 프로젝트ㅣ모두를 위한 투표 앱 Do표 : https://github.com/l0o0lv/Capstone_project.git
+ - 캡스톤디자인 팀 프로젝트ㅣ모두를 위한 투표 앱 Do표 : https://github.com/l0o0lv/Capstone_project.git
 
  - 소프트웨어공학 팀 프로젝트ㅣ온라인 올림픽 굿즈 스토어 OlymPick : https://github.com/tjdals4716/OlymPick.git
 
@@ -34,7 +34,7 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">💻 Most Language and GitHub Stats</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=tokyonight" height = "245px"> <img src="https://github-readme-stats.vercel.app/api?username=tjdals4716&rank_icon=github&theme=tokyonight" height = "245px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=tokyonight" height = "240px"> <img src="https://github-readme-stats.vercel.app/api?username=tjdals4716&rank_icon=github&theme=tokyonight" height = "240px">
 
 <!--
 **tjdals4716/tjdals4716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
