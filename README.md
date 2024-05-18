@@ -30,6 +30,8 @@
 
 <img src="https://img.shields.io/badge/velog-298D46?style=flat&logo=velog&logoColor=white" /> : https://velog.io/@ssm2053/posts
 
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" /> : https://www.notion.so/4-42b259b6103245398217984ffa3895c1?pvs=4
+
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /> : https://github.com/tjdals4716
 
 <h1 style="display: inline-block; vertical-align: middle;">💻 Most Language and GitHub Stats</h1>
