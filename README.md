@@ -30,7 +30,8 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">💻 Most Language and GitHub Stats</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=tokyonight"> ![Top Langs](https://github-readme-stats.vercel.app/api?username=tjdals4716\&rank_icon=github&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/> ![Top Langs](https://github-readme-stats.vercel.app/api?username=tjdals4716\&rank_icon=github&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdals4716&theme=tokyonight"> 
 
 
 <!--
