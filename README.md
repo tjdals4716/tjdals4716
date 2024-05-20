@@ -30,7 +30,7 @@
 
 <img src="https://img.shields.io/badge/velog-298D46?style=flat&logo=velog&logoColor=white" /> : https://velog.io/@ssm2053/posts
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /> : https://github.com/tjdals4716
+<img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" /> : https://github.com/tjdals4716
 
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" /> : https://fuschia-king-eb9.notion.site/e03976e15dc642e1a9729d770cae6062?pvs=4
 
