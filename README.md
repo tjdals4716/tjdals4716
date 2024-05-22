@@ -32,7 +32,7 @@
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /> : https://github.com/tjdals4716
 
-<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" /> : 
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" /> : https://fuschia-king-eb9.notion.site/e03976e15dc642e1a9729d770cae6062?pvs=4
 
 <h1 style="display: inline-block; vertical-align: middle;">💻 Most Language and GitHub Stats</h1>
 
