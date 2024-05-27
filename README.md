@@ -4,13 +4,13 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">📌 introduction</h1>
 
-### 안녕하세요 컴퓨터공학과에서 공부중인 송성민입니다 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+### 컴퓨터공학과에서 공부중인 송성민입니다 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <h1 style="display: inline-block; vertical-align: middle;">🚀 Skills</h1>
 
 <img src="https://skillicons.dev/icons?i=c,cs,html,visualstudio,vscode,py,java,spring,idea,eclipse,mysql,gcp,postman,git,github,notion,apple,windows,discord,instagram">
 
-<h1 style="display: inline-block; vertical-align: middle;">💼 Projects and Activities</h1>
+<h1 style="display: inline-block; vertical-align: middle;">📝 Projects and Activities</h1>
 
  - 캡스톤디자인 팀 프로젝트ㅣ모두를 위한 투표 앱 Do표 : https://github.com/l0o0lv/Capstone_project.git
 
@@ -20,7 +20,7 @@
    
  - 캡스톤디자인 팀 프로젝트 백엔드 : https://github.com/l0o0lv/Capstone_Backend.git
 
-<h1 style="display: inline-block; vertical-align: middle;">📝 Social</h1>
+<h1 style="display: inline-block; vertical-align: middle;">🌐 Social</h1>
 
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" /> : ssm2053@gmail.com    
 
