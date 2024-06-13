@@ -14,11 +14,11 @@
 
  - 캡스톤디자인 팀 프로젝트ㅣ모두를 위한 투표 앱 Do표 : https://github.com/l0o0lv/Capstone_project.git
 
+ - 캡스톤디자인 팀 프로젝트 백엔드 : https://github.com/l0o0lv/DoVote-MSA
+
  - 소프트웨어공학 팀 프로젝트ㅣ올림픽 굿즈 온라인 스토어 OlymPick : https://github.com/tjdals4716/OlymPick.git
 
  - 계명대학교 멋쟁이사자처럼 12기 2팀 백엔드 스터디 : https://github.com/kormk/Lion.git
-   
- - 캡스톤디자인 팀 프로젝트 백엔드 : https://github.com/l0o0lv/Capstone_Backend.git
 
 <h1 style="display: inline-block; vertical-align: middle;">🌐 Social</h1>
 
