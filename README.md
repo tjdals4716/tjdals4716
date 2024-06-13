@@ -22,7 +22,7 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">🌐 Social</h1>
 
-<img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" /><a href="ssm2053@gmail.com">
+<a href="ssm2053@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /> : https://www.instagram.com/thdtjdals__/
 
