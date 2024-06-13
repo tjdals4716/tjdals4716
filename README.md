@@ -12,7 +12,7 @@
 
 <h1 style="display: inline-block; vertical-align: middle;">📝 Projects and Activities</h1>
 
- - 캡스톤디자인 팀 프로젝트ㅣ모두를 위한 투표 앱 Do표 : https://github.com/l0o0lv/Capstone_project.git
+ - 캡스톤디자인 팀 프로젝트ㅣ모두를 위한 투표 앱 Do표 : <a href="https://github.com/l0o0lv/Capstone_project.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
 
  - 캡스톤디자인 팀 프로젝트 백엔드 : https://github.com/l0o0lv/DoVote-MSA
 
