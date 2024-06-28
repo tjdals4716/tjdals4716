@@ -2,16 +2,16 @@
 
 컴퓨터공학과에서 공부중인 송성민입니다 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-<h2 style="display: inline-block; vertical-align: middle;">🚀 Skills</h2>
-
-<img src="https://skillicons.dev/icons?i=c,cs,html,visualstudio,vscode,py,java,spring,idea,eclipse,mysql,gcp,postman,git,github,notion,apple,windows,discord,instagram">
-
 <h2 style="display: inline-block; vertical-align: middle;">📝 Projects and Activities</h2>
 
  - 캡스톤디자인 팀 프로젝트ㅣ모두를 위한 투표 앱 Do표 : <a href="https://github.com/l0o0lv/Capstone_project.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
  - 소프트웨어공학 프로젝트ㅣ올림픽 굿즈 온라인 스토어 OlymPick : <a href="https://github.com/tjdals4716/OlymPick.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
  - 계명대학교 멋쟁이사자처럼 12기 2팀 백엔드 스터디 : <a href="https://github.com/kormk/Lion.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
  - 캡스톤디자인 팀 프로젝트 백엔드 : <a href="https://github.com/l0o0lv/DoVote-MSA"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+
+<h2 style="display: inline-block; vertical-align: middle;">🚀 Skills</h2>
+
+<img src="https://skillicons.dev/icons?i=c,cs,html,visualstudio,vscode,py,java,spring,idea,eclipse,mysql,gcp,postman,git,github,notion,apple,windows,discord,instagram">
 
 <h2 style="display: inline-block; vertical-align: middle;">🌐 Social</h2>
 
