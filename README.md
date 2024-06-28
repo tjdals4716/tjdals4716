@@ -1,7 +1,3 @@
-<h2 style="display: inline-block; vertical-align: middle;">📌 introduction</h2>
-
-컴퓨터공학과에서 공부중인 송성민입니다 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 <h2 style="display: inline-block; vertical-align: middle;">🚀 Skills</h2>
 
 <img src="https://skillicons.dev/icons?i=c,cs,html,visualstudio,vscode,py,java,spring,idea,eclipse,mysql,gcp,postman,git,github,notion,apple,windows,discord,instagram">
@@ -21,6 +17,7 @@
 <a href="https://velog.io/@ssm2053/posts"><img src="https://img.shields.io/badge/velog-298D46?style=flat&logo=velog&logoColor=white" /></a>
 <a href="https://github.com/tjdals4716"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
 <a href="https://fuschia-king-eb9.notion.site/e03976e15dc642e1a9729d770cae6062?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" /></a>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdals4716%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <h2 style="display: inline-block; vertical-align: middle;">💻 Most Language and GitHub Stats</h2>
 
