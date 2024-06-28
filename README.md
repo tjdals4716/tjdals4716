@@ -1,6 +1,6 @@
 <h2 style="display: inline-block; vertical-align: middle;">🚀 Skills</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,visualstudio,vscode,py,java,spring,idea,eclipse,mysql,gcp,github,notion,postman,git">
+<img src="https://skillicons.dev/icons?i=html,css,visualstudio,vscode,py,java,spring,idea,eclipse,mysql,gcp,notion,github,git,postman">
 
 <h2 style="display: inline-block; vertical-align: middle;">📝 Projects and Activities</h2>
 
