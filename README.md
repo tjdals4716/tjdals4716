@@ -4,9 +4,9 @@
 
 <h2 style="display: inline-block; vertical-align: middle;">🌐 Social</h2>
 
-<a href="ssm2053@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.ssm2053@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/thdtjdals__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="song47166@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white" /></a>
+<a href="https://www.song47166@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white" /></a>
 <a href="https://velog.io/@ssm2053/posts"><img src="https://img.shields.io/badge/velog-298D46?style=flat&logo=velog&logoColor=white" /></a>
 <a href="https://github.com/tjdals4716"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
 <a href="https://fuschia-king-eb9.notion.site/e03976e15dc642e1a9729d770cae6062?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white" /></a>
