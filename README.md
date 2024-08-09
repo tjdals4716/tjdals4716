@@ -18,6 +18,7 @@
  - 소프트웨어공학 프로젝트 - 올림픽 굿즈 온라인 스토어 OlymPick : <a href="https://github.com/tjdals4716/OlymPick.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
  - 계명대학교 멋쟁이사자처럼 12기 2팀 백엔드 스터디 : <a href="https://github.com/kormk/Lion.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
  - 캡스톤디자인 팀 프로젝트 백엔드 : <a href="https://github.com/l0o0lv/DoVote-MSA"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+ - 멋쟁이사자처럼 중앙 해커톤 - SmileHub : <a href="https://github.com/MangoWafflee"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
 
 <h2 style="display: inline-block; vertical-align: middle;">💻 Most Language and GitHub Stats</h2>
 
